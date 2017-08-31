@@ -1,4 +1,4 @@
-# GMM-HMM-for-isolated-digits-recognition-applying-EM-algorithm
+# GMM HMM for isolated digits recognition applying EM algorithm
 In this project we would like to deal with training GMM-HMM for isolated digits data applying EM algorithm. The testing phase is also considered using Viterbi algorithm. The results showed the performances which obtained by Matlab programming are similar to HTK's ones. 
 
 Before running these programs, please first prepare the training and testing data. Excerpts of TIDIGITS database can be obtained from this link:
