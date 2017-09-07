@@ -7,5 +7,11 @@ http://www.ece.ucsb.edu/Faculty/Rabiner/ece259/speech%20recognition%20course.htm
 
 with the title of "isolated TI digits training files, 8 kHz sampled, endpointed: (isolated_digits_ti_train_endpt.zip)." 
 
+!!! Update: 2017-09-07
+
+We have just added some feature extracting functions that would help you to convert '.wav' files to '.mfc' files (feature files)
+
+Now you may run this project with only one click!
+
 Please run the main function "EM_HMM_multiGaussian_isolated_digit_main.m" to start the work. 
 The feature file format used in this version is compactable with the HTK format.
