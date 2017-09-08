@@ -9,7 +9,7 @@ with the title of "isolated TI digits training files, 8 kHz sampled, endpointed:
 
 or
 
-you may download directly training database only from this link:
+you may download directly the .zip file of training database only from this link:
 http://www.ece.ucsb.edu/Faculty/Rabiner/ece259/speech%20recognition%20course/databases/isolated_digits_ti_train_endpt.zip
 
 !!! Update: 2017-09-07
