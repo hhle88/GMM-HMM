@@ -15,7 +15,7 @@ training_file_list_name = 'trainingfile_list.mat';
 testing_file_list_name = 'testingfile_list.mat';
 
 DIM = 39; % dimension of a feature vector
-num_of_model = 10; % number of models: digit '0', digit '1',... digit '9'
+num_of_model = 11; % number of models: digit '0', digit '1',... digit '9'
 num_of_state_start = 13; 
 num_of_state_end = 13;
 accuracy_rate = zeros(1,num_of_state_end);
