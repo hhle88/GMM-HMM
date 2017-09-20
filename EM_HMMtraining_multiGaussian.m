@@ -58,7 +58,9 @@ end
 % title(['number of states: ', num2str(num_of_state)]);
 
 %% print HMM to a file
-printf_HMM_to_file(HMM);
+save_file_name = 'HMM_GMM.txt';
+file_list_of_model = 'list_of_models.txt';
+printf_HMM_to_file(HMM,save_file_name,file_list_of_model);
 end
 
 %%
