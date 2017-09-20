@@ -11,7 +11,7 @@ function printf_HMM_to_file(HMM, save_file_name, file_list_of_model)
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 if nargin==0
-    load 'models\HMM_0.mat';
+    load 'models\HMM_30.mat';
     save_file_name = 'HMM_GMM.txt';
     file_list_of_model = 'list_of_models.txt';
 end
